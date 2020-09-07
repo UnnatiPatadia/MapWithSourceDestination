@@ -1,4 +1,4 @@
-package com.deadbrains.mapsourcedestdemo;
+package com.unnati.mapsourcedestdemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentActivity;
